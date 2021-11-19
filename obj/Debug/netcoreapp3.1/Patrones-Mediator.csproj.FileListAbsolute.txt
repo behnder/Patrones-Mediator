@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\bin\Debug\netcoreapp3.1\Patrones-Mediator.exe
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\bin\Debug\netcoreapp3.1\Patrones-Mediator.deps.json
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\bin\Debug\netcoreapp3.1\Patrones-Mediator.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\bin\Debug\netcoreapp3.1\Patrones-Mediator.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\bin\Debug\netcoreapp3.1\Patrones-Mediator.dll
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\bin\Debug\netcoreapp3.1\Patrones-Mediator.pdb
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.dll
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.pdb
+E:\unity\quark\Patrones\Patrones-Mediator\Patrones-Mediator\obj\Debug\netcoreapp3.1\Patrones-Mediator.genruntimeconfig.cache
