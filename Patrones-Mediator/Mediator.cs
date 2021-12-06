@@ -6,9 +6,7 @@ namespace Patrones_Mediator
 {
     class Mediator
     {
-        Personaje personaje;
-       
-
+     
         public void AtacarRival(Personaje atacante, Personaje atacado)
         {
             atacante.Atacar(atacado);

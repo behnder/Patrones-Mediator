@@ -30,7 +30,7 @@ namespace Patrones_Mediator
         {
             Console.WriteLine(Nombre + " Está atacando al contrincante! ");
             contrincante.Vida -= MultiplicadorDeAtaque;
-            Console.WriteLine("La vida del contrincante es de" + contrincante.Vida);
+            Console.WriteLine("La vida del contrincante es de " + contrincante.Vida);
             if (Vida < 1)
             {
                 EstaVivo = false;
@@ -45,9 +45,9 @@ namespace Patrones_Mediator
                 if (Vida < VidaTotal)
                 {
                     PocionesDeVida--;
-                    Console.WriteLine("Aplicando pocion de curación");
-                    Console.WriteLine("La salud actual es de" + Vida);
+                    Console.WriteLine(Nombre +": Aplicando pocion de curación");
                     Vida++;
+                    Console.WriteLine(Nombre + ": La salud actual es de " + Vida);
 
                 }
                 if (Vida == VidaTotal)
@@ -62,7 +62,7 @@ namespace Patrones_Mediator
 
             if (PocionesDeVida == 0)
             {
-                Console.WriteLine("Ya no quedan pociones");
+                Console.WriteLine(Nombre + ": Ya no quedan pociones");
             }
         }
     }
